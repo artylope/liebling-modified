@@ -2,11 +2,11 @@
 
 modify liebling https://github.com/eddiesigner/liebling to suit my portfolio site needs. to look like atylope-jekyll
 
-homepage to display posts with tag "works"
-playground to display posts with tag "playgroud"
-blog to display posts with tag "blog"
-styling modifications to make it look like artylope
-remove all the extra stuff that I don't need (e.g. author avatars)
+- homepage to display posts with tag "works"
+- playground to display posts with tag "playgroud"
+- blog to display posts with tag "blog"
+- styling modifications to make it look like artylope
+- remove all the extra stuff that I don't need (e.g. author avatars, extended menus etc)
 
 
 
